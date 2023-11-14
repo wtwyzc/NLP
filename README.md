@@ -1,4 +1,6 @@
 # NLP
+- English text
+- Chinese text
 - Based on nltk
 ## text processing
 - regular expression
